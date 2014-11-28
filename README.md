@@ -2,5 +2,5 @@ Prueba
 ======
 
 ### Titulo terciario
-** negrita**
+**negrita** *cursiva*
 Esto es un repositorio de prueba 
